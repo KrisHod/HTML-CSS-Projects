@@ -1,0 +1,11 @@
+p{
+		background-color: yellow;
+		color: black;
+		text-decoration: underline;
+		font-weight: bold;
+		font-size: medium;
+		}
+		
+h1 {
+  text-shadow: 0 0 3px #FF0000;
+}
