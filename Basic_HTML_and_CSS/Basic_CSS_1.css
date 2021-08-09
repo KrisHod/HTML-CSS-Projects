@@ -1,4 +1,14 @@
 p{
-				color: #8B008B;
-				text-align: center;
-			}
+	color: #8B008B;
+	text-align: center;
+}
+
+body{
+	font-style: italic;
+	text-align: center;
+}
+
+.Class_A {
+	color: blue;
+}
+		
